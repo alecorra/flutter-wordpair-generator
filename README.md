@@ -1,6 +1,6 @@
 # Wordpair Generator
 
-A new Flutter project built following Brad Traversy [youtube](https://www.youtube.com/watch?v=1gDhl4leEzA) tutorial.
+A new Flutter project built following Brad Traversy [tutorial](https://www.youtube.com/watch?v=1gDhl4leEzA).
 
 ## Getting Started
 
