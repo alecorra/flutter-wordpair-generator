@@ -1,16 +1,9 @@
-# wordpair_generator
+# Wordpair Generator
 
-A new Flutter project.
+A new Flutter project built following Brad Traversy [youtube](https://www.youtube.com/watch?v=1gDhl4leEzA) tutorial.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Install dependencies from `pubspec.yaml` by running `flutter packages get` from the project root (see [using packages documentation](https://flutter.io/using-packages/#adding-a-package-dependency-to-an-app) for details and how to do this in the editor).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+There you go, you can now open & edit the project. Enjoy!
